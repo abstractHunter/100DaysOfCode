@@ -1,0 +1,14 @@
+# 100 days of code
+
+### My official repository to hold codes from the 100 dys of code challenge
+
+### start date : monday 25 july 2022
+### end date   : 
+
+### What will I be learning : 
+	- flutter
+	- NodeJs
+	
+
+
+
