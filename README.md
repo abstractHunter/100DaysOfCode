@@ -2,7 +2,7 @@
 
 ### My official repository to hold codes from the 100 days of code challenge
 
-start date : monday 25 july 2022
+start date : monday 25 july 2022  
 end date   : 
 
 ### What will I be learning : 
