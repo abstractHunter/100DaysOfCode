@@ -10,3 +10,6 @@ end date   :
 	- NodeJs
 	
 
+### day 01
+	- learn the basics of Dart programming language
+	
