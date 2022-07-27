@@ -17,7 +17,7 @@ end date   :
 	- learned the basics of Dart programming language
 	
 </details>
-<br/><hr/>
+<hr/>
 
 <details>
 	<summary><h3>Day 02</h3></summary>
@@ -26,7 +26,7 @@ end date   :
 	- started learning Flutter
 
 </details>
-<br/><hr/>
+<hr/>
 
 <details>
 	<summary><h3>Day 03</h3></summary>
@@ -36,4 +36,4 @@ end date   :
 	- style widdets
 
 </details>
-<br/><hr/>
+<hr/>
