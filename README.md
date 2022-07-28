@@ -37,3 +37,13 @@ end date   :
 
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 04</h3></summary>
+	
+	- navigation between screens
+	- TextField validator
+	- Form validation
+
+</details>
+<hr/>
