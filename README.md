@@ -47,3 +47,13 @@ end date   :
 
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 05</h3></summary>
+	
+	- setup firebase with flutter
+	- firebase authentication
+
+</details>
+<hr/>
+
