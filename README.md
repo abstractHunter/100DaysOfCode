@@ -57,3 +57,10 @@ end date   :
 </details>
 <hr/>
 
+<details>
+	<summary><h3>Day 06</h3></summary>
+	
+	- firebase authentication
+
+</details>
+<hr/>
