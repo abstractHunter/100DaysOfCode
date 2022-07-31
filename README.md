@@ -64,3 +64,12 @@ end date   :
 
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 07</h3></summary>
+	
+	- TextSpan
+	- Navigating bettwen screens
+
+</details>
+<hr/>
