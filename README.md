@@ -77,10 +77,21 @@ end date   :
 <details>
 	<summary><h3>Day 08</h3></summary>
 	
-	- back to nodejs
+- back to nodejs
 	- http server
-	- serving string, html, json, pdf, mp3, mp4, etc.
-	- https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_01
+	- serving string, html, json, pdf, mp3, mp4, etc.  
+[see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_01)
 
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 09</h3></summary>
+	
+- Node js
+	- file system
+	- read, write, append, rename, delete files
+	- syncronous, asynchronous  
+[see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_02)
 </details>
 <hr/>
