@@ -95,3 +95,14 @@ end date   :
 [see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_02)
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 10</h3></summary>
+	
+- Node js
+	- regex
+	- find specific expression in a string
+	- validate email, password, etc.
+[see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_03)
+</details>
+<hr/>
