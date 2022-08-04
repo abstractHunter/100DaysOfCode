@@ -106,3 +106,14 @@ end date   :
 [see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_03)
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 11</h3></summary>
+	
+- Node js
+	- console
+	- methods: log, error, warn, time, count
+[see](https://github.com/milkiyd/30DaysOfNodeJs/tree/master/day_04)
+</details>
+<hr/>
+
