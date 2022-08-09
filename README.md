@@ -117,3 +117,43 @@ end date   :
 </details>
 <hr/>
 
+<details>
+	<summary><h3>Day 12</h3></summary>
+	
+- Node js
+	- erros
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 13</h3></summary>
+	
+- Node js
+	- array methods
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 14</h3></summary>
+	
+- Node js
+	- npm
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 15</h3></summary>
+	
+- Node js
+	- publishing npm packages
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 16</h3></summary>
+	
+- Node js
+	- hashing and hmac
+	- encryption and decryption
+</details>
+<hr/>
