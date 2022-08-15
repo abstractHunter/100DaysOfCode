@@ -165,3 +165,38 @@ end date   :
 	- expres.js
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 18</h3></summary>
+	
+- Node js
+	- more about express.js
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 19</h3></summary>
+	
+- Node js
+	- mongodb
+	- mongoose
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 20</h3></summary>
+	
+- Node js
+	- signup and login forms
+	- express.js
+	- mongodb
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 21</h3></summary>
+	
+- Node js
+	- socket.io
+</details>
+<hr/>
