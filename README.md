@@ -200,3 +200,21 @@ end date   :
 	- socket.io
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 22</h3></summary>
+	
+- Node js
+	- streams
+	- compressing files
+	- decompressing files
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 23</h3></summary>
+	
+- Node js
+	- mysql
+</details>
+<hr/>
