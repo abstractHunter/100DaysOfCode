@@ -216,5 +216,17 @@ end date   :
 	
 - Node js
 	- mysql
+	- callback functions
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 24</h3></summary>
+	
+- Node js
+	- query string
+	- timers
+	- buffer
+	- string decoder
 </details>
 <hr/>
