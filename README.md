@@ -230,3 +230,12 @@ end date   :
 	- string decoder
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 25</h3></summary>
+	
+- Node js
+	- debugging
+	- child processes
+</details>
+<hr/>
