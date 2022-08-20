@@ -248,3 +248,11 @@ end date   :
 	- os module
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 27</h3></summary>
+	
+- Node js
+	- assert module
+</details>
+<hr/>
