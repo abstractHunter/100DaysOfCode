@@ -256,3 +256,27 @@ end date   :
 	- assert module
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 28</h3></summary>
+	
+- Node js
+	- working with APIs
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 29</h3></summary>
+	
+- Node js
+	- more about express.js
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 30</h3></summary>
+	
+- Node js
+	- youtube api
+</details>
+<hr/>
