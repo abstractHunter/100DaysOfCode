@@ -280,3 +280,23 @@ end date   :
 	- youtube api
 </details>
 <hr/>
+
+<details>
+	<summary><h3>Day 31</h3></summary>
+	
+- Node js
+	- view engines
+	- ejs
+	- pug
+</details>
+<hr/>
+
+<details>
+	<summary><h3>Day 32</h3></summary>
+	
+- Node js
+	- library management api
+	- express
+	- mongodb
+</details>
+<hr/>
